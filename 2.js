@@ -17,7 +17,7 @@ console.log(json1.design);*/
 
 
   json3 = {
-      name:"harshi",
+      name:"harshini",
       reg:1285,
       details:function funcname() {
           console.log(this.name+this.reg);
